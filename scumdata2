@@ -1,5 +1,5 @@
 {
-  "scumszilvi": {
+  "Suppressor": {
     "HS SF19": "M9, Handgun suppressor",
     "Block 21": "45 ACP",
     "HS-9": "Handgun suppressor",
@@ -33,7 +33,7 @@
     "VHS-2 CT": "MK18",
     "SCAR-DMR": ".308"
   },
-  "scumrenata": {
+  "Rail": {
     "Serpent 357": "Viper M357",
     "Judge .44": "Viper M357",
     "Viper M357": "Viper M357",
@@ -67,7 +67,7 @@
     "MAC-10": "Improvised Short",
     "Improvised Rifle": "Improvised Long"
   },
-  "scumfanni": {
+  "Flashlight": {
     "HS SF19": "M9",
     "Block 21": "M9",
     "HS-9": "M9",
@@ -111,7 +111,7 @@
     "Desert Eagle .50": "Desert Eagle",
     "Desert Eagle .357": "Desert Eagle"
   },
-  "scumbrigi": {
+  "Bayonet": {
     "Kar98": "VZ24",
     "M1 Rifle": "M1",
     "M1891": "M1891 Bayonet",
