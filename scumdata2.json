@@ -32,7 +32,7 @@
     "UMP-45": ".45 ACP",
     "VHS 2": "MK18",
     "VHS 2 CT": "MK18",
-    "SCAR- DMR": ".308"
+    "SCAR- DMR": ".308",
     "SCAR-L": ".308",
     "Serpent 357": "none",
     "Peacekeeper 38": "none",
@@ -47,7 +47,7 @@
     "MP5 K": "(MP5)",
     "MAC-10": "(none)",
     "Desert Eagle .50": "(none)",
-    "Desert Eagle .357": "(none)",
+    "Desert Eagle .357": "(none)"
   },
   "scumrita": {
     "Serpent 357": "Viper M357",
@@ -91,13 +91,13 @@
     "SCAR- DMR": "None",
     "SCAR-L": "None",
     "MAC-10": "Improvised Short",
-    "Improvised Rifle": "Improvised Long"
+    "Improvised Rifle": "Improvised Long",
     "Peacekeeper 38": "Viper M357",
     "Improvised Handgun": "(none)",
     "The Mule DT11B Short": "(none)",
     "DT11B": "(none)",
     "Desert Eagle .50": "(none)",
-    "Desert Eagle .357": "(none)",
+    "Desert Eagle .357": "(none)"
   },
   "scumfanni": {
     "HS SF19": "M9",
@@ -144,10 +144,10 @@
     "Improvised Rifle": "Improvised Flashlight",
     "Improvised Handgun": "(none)",
     "Desert Eagle .50": "Desert Eagle",
-    "Desert Eagle .357": "Desert Eagle"
+    "Desert Eagle .357": "Desert Eagle",
     "Peacekeeper 38": "M9, Desert Eagle",
     "The Mule DT11B Short": "(none)",
-    "DT11B": "(none)",
+    "DT11B": "(none)"
   },
   "scumbrigi": {
     "Kar98": "VZ24",
@@ -195,8 +195,8 @@
     "SCAR- DMR": "(none)",
     "SCAR-L": "(none)",
     "MAC-10": "(none)",
-    "Improvised Rifle": "(none)"
+    "Improvised Rifle": "(none)",
     "Carbon Hunter": "none",
-    "Hunter 85": ".none",
+    "Hunter 85": ".none"
   }
 }
