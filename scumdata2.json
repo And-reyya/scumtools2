@@ -31,7 +31,7 @@
     "UMP-45": ".45 ACP",
     "VHS-2": "MK18",
     "VHS-2 CT": "MK18",
-    "SCAR-DMR": ".308"
+    "SCAR- DMR": ".308"
   },
   "scumrita": {
     "Serpent 357": "Viper M357",
@@ -62,7 +62,7 @@
     "UMP-45": "None",
     "VHS-2": "None",
     "VHS-2 CT": "None",
-    "SCAR-DMR": "None",
+    "SCAR- DMR": "None",
     "SCAR-L": "None",
     "MAC-10": "Improvised Short",
     "Improvised Rifle": "Improvised Long"
@@ -104,7 +104,7 @@
     "UMP-45": "Improvised Flashlight, M9, Desert Eagle",
     "VHS-2": "Improvised Flashlight, M9, Desert Eagle",
     "VHS-2 CT": "Improvised Flashlight, M9, Desert Eagle",
-    "SCAR-DMR": "Improvised Flashlight, M9",
+    "SCAR- DMR": "Improvised Flashlight, M9",
     "SCAR-L": "Improvised Flashlight, M9",
     "MAC-10": "Improvised Flashlight",
     "Improvised Rifle": "Improvised Flashlight",
@@ -154,7 +154,7 @@
     "UMP-45": "(none)",
     "VHS-2": "(none)",
     "VHS-2 CT": "(none)",
-    "SCAR-DMR": "(none)",
+    "SCAR- DMR": "(none)",
     "SCAR-L": "(none)",
     "MAC-10": "(none)",
     "Improvised Rifle": "(none)"
